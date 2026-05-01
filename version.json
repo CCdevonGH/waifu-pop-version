@@ -1,5 +1,10 @@
 {
   "version": "1.0.10",
-  "message": "Test!",
+  "message": "Test!
+  How about multilines?
+  And how about a Changelog?
+    A
+    B
+    C",
   "url": "https://cutecupcakes.itch.io/waifu-pop"
 }
